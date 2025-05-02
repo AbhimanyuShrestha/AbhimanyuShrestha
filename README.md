@@ -20,8 +20,6 @@
 - ✉️ [LinkedIn](https://www.linkedin.com/in/abhimanyu-shrestha-a09377116/) 
 -  Email: *abhimanyushrestha681@gmail.com*
 
-## ⚡ Fun fact:
-I like diving into tough questions and determining the best possible way to organize data — frontend and backend too!
 
 ---
 

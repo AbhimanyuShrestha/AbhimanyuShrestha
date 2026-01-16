@@ -17,8 +17,8 @@
 - Projects focused on improving code quality and maintainability
 
 ## How to reach me:
-- ✉️ [LinkedIn](https://www.linkedin.com/in/abhimanyu-shrestha-a09377116/) 
--  Email: *abhimanyushrestha681@gmail.com*
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-shrestha-a09377116/)
+- ✉️ [abhimanyushrestha681@gmail.com](mailto:abhimanyushrestha681@gmail.com)
 
 
 ---

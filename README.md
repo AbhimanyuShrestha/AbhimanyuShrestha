@@ -17,12 +17,13 @@
 - Projects focused on improving code quality and maintainability
 
 ## How to reach me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-shrestha-a09377116/)
-- ✉️ [abhimanyushrestha681@gmail.com](mailto:abhimanyushrestha681@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyu-shrestha-a09377116/)
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhimanyushrestha681@gmail.com)
 
 
 ---
 
 >  Tools & Tech I love working with:
-> `C#` `SQL` `PostgreSQL` `Angular` `TypeScript` `Entity Framework` `Dapper` `JavaScript` `GitLab`
+>
+> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-EA2E2E?style=flat-square&logo=nuget&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 
